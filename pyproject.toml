@@ -7,3 +7,4 @@ authors = ["Mehwish Sheikh"]
 readme = "README.md"
 python = ">=3.10,<3.13"
 dependencies = []
+package-mode = false
