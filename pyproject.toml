@@ -1,7 +1,9 @@
 [project]
-name = "data-cleaner"
+[tool.poetry]
+name = "growth-mindsetchallenge"
 version = "0.1.0"
-description = "Add your description here"
+description = "Your project description"
+authors = ["Mehwish Sheikh"]
 readme = "README.md"
 python = ">=3.10,<3.13"
 dependencies = []
